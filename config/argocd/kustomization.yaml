@@ -1,0 +1,6 @@
+resources:
+- argo-app.yaml
+- cicd-app.yaml
+- gitops-demo-dev-app-taxi-app.yaml
+- gitops-demo-dev-env-app.yaml
+- gitops-demo-stage-env-app.yaml

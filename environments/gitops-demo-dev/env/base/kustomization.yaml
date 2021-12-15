@@ -1,0 +1,3 @@
+resources:
+- gitops-demo-dev-environment.yaml
+- gitops-demo-dev-rolebinding.yaml

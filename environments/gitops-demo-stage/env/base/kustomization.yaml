@@ -1,0 +1,2 @@
+resources:
+- gitops-demo-stage-environment.yaml
